@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mobile iOS with Swift UIKit**
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/dogukanberkozer?tab=repositories)
+- 👨‍💻 All of my projects are available at [this link](https://github.com/dogukanberkozer?tab=repositories)
 
 - 💬 Ask me about **Swift, Java, .NET, JavaScript, C**
 
