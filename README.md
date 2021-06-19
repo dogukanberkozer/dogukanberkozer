@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Yemeksepeti Mobile iOS Bootcamp**
 
-- 👨‍💻 All of my projects are available at [github.com/dogukanberkozer](github.com/dogukanberkozer)
+- 👨‍💻 All of my projects are available at [here](https://github.com/dogukanberkozer?tab=repositories)
 
 - 💬 Ask me about **Swift, Java, .NET, JavaScript**
 
