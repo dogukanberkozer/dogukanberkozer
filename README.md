@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Yemeksepeti Mobile iOS Bootcamp**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dogukanberkozer](https://github.com/dogukanberkozer)
+- 👨‍💻 All of my projects are available at [github.com/dogukanberkozer](github.com/dogukanberkozer)
 
-- 💬 Ask me about **Swift, C#, Java, JavaScript**
+- 💬 Ask me about **Swift, Java, .NET, JavaScript**
 
 - 📫 How to reach me **doguberko@gmail.com**
 
@@ -27,6 +27,7 @@
 <a href="https://instagram.com/doguberko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="doguberko" height="30" width="40" /></a>
 <a href="https://medium.com/@dogukanberkozer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dogukanberkozer" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/algorid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="algorid" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dogukanberkozer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dogukanberkozer" height="30" width="40" /></a>
 <a href="https://discord.gg/doguberko#4412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="doguberko#4412" height="30" width="40" /></a>
 </p>
 
