@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dogukanberkozer" alt="dogukanberkozer" /></a> </p>
 
-- 🌱 I’m currently learning **iOS development with Swift**
+- 🌱 I’m currently learning **iOS development with Swift UIKit**
 
 - 👨‍💻 All of my projects are available at [this link](https://github.com/dogukanberkozer?tab=repositories)
-
-- 💬 Ask me about **Swift UIKit & Unity**
 
 - 📫 How to reach me **doguberko@gmail.com**
 
