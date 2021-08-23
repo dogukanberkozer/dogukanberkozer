@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Özgebir Mobile App](https://github.com/Softalya-Internship/ozgebir-mobil)
 
-- 🌱 I’m currently learning **iOS development with Swift**
+- 🌱 I’m currently learning **mobile development with React Native**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dogukanberkozer](https://github.com/dogukanberkozer)
+- 👨‍💻 All of my projects are available at [this link](https://github.com/dogukanberkozer?tab=repositories)
 
 - 📫 How to reach me **doguberko@gmail.com**
 
