@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dogukan Berk OZER</h1>
-<h3 align="center">Solution-oriented computer scientist with a variety of experiences. Adept at motivating self and others. Passionate about app development. Also eager to learn the next generation of technology innovations.</h3>
+<h3 align="center">Computer scientist who combines a variety of experiences with a solution-oriented mindset. Highly motivated by his own drive as well as by motivating others. Enthusiastic about software development. Looking forward to learning about next generation technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dogukanberkozer&label=Profile%20views&color=0e75b6&style=flat" alt="dogukanberkozer" /> </p>
 
