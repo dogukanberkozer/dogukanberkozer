@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dogukanberkozer" alt="dogukanberkozer" /></a> </p>
 
-- 🔭 I’m currently working on **web development**
+- 🔭 I’m currently working on **web app development**
 
-- 🌱 I’m currently learning **HTML5, CSS3, Bootstrap 4, JavaScript, JQuery**
+- 🌱 I’m currently learning **Angular, Bootstrap, JQuery, JavaScript, CSS3, HTML5**
 
-- 👨‍💻 Some of my projects are available at [https://github.com/dogukanberkozer](https://github.com/dogukanberkozer)
+- 👨‍💻 Some of my projects are available at [this link](https://github.com/dogukanberkozer)
 
 - 📫 How to reach me **doguberko@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/dogukanberkozer/](https://www.linkedin.com/in/dogukanberkozer/)
+- 📄 Know about my experiences [via my linkedin profile](https://www.linkedin.com/in/dogukanberkozer/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
