@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Swift UIKit**
 
-- 👨‍💻 Some of my projects are available at [https://github.com/dogukanberkozer](https://github.com/dogukanberkozer)
+- 👨‍💻 Some of my projects are available at [this link](https://github.com/dogukanberkozer)
 
 - 📫 How to reach me **doguberko@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/dogukanberkozer/](https://www.linkedin.com/in/dogukanberkozer/)
+- 📄 Know about my experiences [via linkedin](https://www.linkedin.com/in/dogukanberkozer/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
