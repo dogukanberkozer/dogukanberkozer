@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dogukanberkozer&label=Profile%20views&color=0e75b6&style=flat" alt="dogukanberkozer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dogukanberkozer" alt="dogukanberkozer" /></a> </p>
-
 - 🔭 Currently working on **iOS development** with **UIKit** and **SwiftUI**
 
 - 📄 Know about my experiences [via LinkedIn](https://www.linkedin.com/in/dogukanberkozer/)
